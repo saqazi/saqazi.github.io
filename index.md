@@ -1,5 +1,5 @@
-Publications
-Journal Articles
+# Publications
+## Journal Articles
 
 Qazi, Sohaib Ayaz, Tamara Bianchessi, Federica Viola, et al.
 FlowVN trained on a single dataset enables rapid reconstruction of highly accelerated 4D Flow MRI across multiple sites.
