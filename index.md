@@ -5,39 +5,39 @@
    *FlowVN trained on a single dataset enables rapid reconstruction of highly accelerated 4D Flow MRI across multiple sites.*  
    _Magnetic Resonance in Medicine_, under review, 2025.
 
-M. Shafique, Qazi, Sohaib Ayaz, Hammad Omer.
+2. M. Shafique, **Qazi, Sohaib Ayaz**, Hammad Omer.
 Compressed SVD-based L+S model to reconstruct undersampled dynamic MRI data using parallel architecture.
 Magnetic Resonance Materials in Physics, Biology and Medicine, pp. 1–20, 2023.
 
-Ibtisam Aslam, Lindsey A. Crowe, Miklos Kassai, Qazi, Sohaib Ayaz, Hammad Omer, Jean-Paul Vallée.
+3. Ibtisam Aslam, Lindsey A. Crowe, Miklos Kassai, **Qazi, Sohaib Ayaz**, Hammad Omer, Jean-Paul Vallée.
 Real-time, single breath-hold, multi-slice, 2D cine radial MR image reconstruction using sc-GROG kt ESPIRiT.
 Biomedical Physics & Engineering Express, 8(6), 2022.
 
-M. Abdul Khalil, Afaq Ahmed, H. Shahzad, Qazi, Sohaib Ayaz, Hammad Omer.
+4. M. Abdul Khalil, Afaq Ahmed, H. Shahzad, **Qazi, Sohaib Ayaz**, Hammad Omer.
 GPU-based parallel framework for receiver coil sensitivity estimation in SENSE reconstruction.
 Magnetic Resonance Imaging, 80, pp. 58–70, 2021.
 
-Mehmood Qureshi, Omair Inam, Qazi, Sohaib Ayaz, Ibtisam Aslam, Hammad Omer.
+5. Mehmood Qureshi, Omair Inam, **Qazi, Sohaib Ayaz**, Ibtisam Aslam, Hammad Omer.
 Tangent vector-based gradient method with ℓ1/2-regularization: iterative half-thresholding algorithm for CS-MRI.
 Journal of Magnetic Resonance, 333, 2021.
 
-Qazi, Sohaib Ayaz, Fareena Tariq, Irfan Ullah, Hammad Omer.
+6. **Qazi, Sohaib Ayaz**, Fareena Tariq, Irfan Ullah, Hammad Omer.
 Parallel implementation of L+S signal recovery in dynamic MRI.
 Magnetic Resonance Materials in Physics, Biology and Medicine, pp. 1–11, 2020.
 
-Faisal Najeeb, Muhammad Usman, Ibtisam Aslam, Qazi, Sohaib Ayaz, Hammad Omer.
+7. Faisal Najeeb, Muhammad Usman, Ibtisam Aslam, **Qazi, Sohaib Ayaz**, Hammad Omer.
 Respiratory motion-corrected compressively sampled dynamic MR image reconstruction exploiting multiple sparsity constraints and phase correlation-based data binning.
 Magnetic Resonance Materials in Physics, Biology and Medicine, pp. 1–9, 2019.
 
-Qazi, Sohaib Ayaz, Faisal Siddiqui, J. Jacob Wikner, Hammad Omer.
+8. **Qazi, Sohaib Ayaz**, Faisal Siddiqui, J. Jacob Wikner, Hammad Omer.
 ASIC modelling of SENSE for parallel MRI.
 Computers in Biology and Medicine, 109, pp. 53–61, 2019.
 
-Ibtisam Aslam, Iram Shahzadi, Qazi, Sohaib Ayaz, Hammad Omer.
+9. Ibtisam Aslam, Iram Shahzadi, **Qazi, Sohaib Ayaz**, Hammad Omer.
 Golden-angle radial sparse parallel MR image reconstruction using SC-GROG followed by iterative soft-thresholding.
 Applied Magnetic Resonance, 50(8), pp. 977–988, 2019.
 
-Qazi, Sohaib Ayaz, Abeera Saeed, Saima Nasir, Hammad Omer.
+10. **Qazi, Sohaib Ayaz**, Abeera Saeed, Saima Nasir, Hammad Omer.
 Optimizing image reconstruction in SENSE using GPU.
 Applied Magnetic Resonance, 49(2), pp. 151–164, 2018.
 
