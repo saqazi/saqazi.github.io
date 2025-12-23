@@ -1,9 +1,9 @@
 # Publications
 ## Journal Articles
 
-Qazi, Sohaib Ayaz, Tamara Bianchessi, Federica Viola, et al.
-FlowVN trained on a single dataset enables rapid reconstruction of highly accelerated 4D Flow MRI across multiple sites.
-Magnetic Resonance in Medicine, under review, 2025.
+1. **Qazi, Sohaib Ayaz**, Tamara Bianchessi, Federica Viola, *et al.*  
+   *FlowVN trained on a single dataset enables rapid reconstruction of highly accelerated 4D Flow MRI across multiple sites.*  
+   _Magnetic Resonance in Medicine_, under review, 2025.
 
 M. Shafique, Qazi, Sohaib Ayaz, Hammad Omer.
 Compressed SVD-based L+S model to reconstruct undersampled dynamic MRI data using parallel architecture.
