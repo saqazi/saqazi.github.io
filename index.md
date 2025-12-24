@@ -84,31 +84,31 @@ ISMRM Workshop on Advances in MRI Flow, Calgary, Canada, 2024.
 15. **Qazi., Sohaib A.**, et.al, “A Comparative Analysis of Power and Device Utilization of LDPC and Turbo Encoders”, 4th Intl. Conference on Information and Communication Technologies IEEE, Karachi, Pakistan, 2011.
 
 
-Supervision
-Doctoral Theses
+# Supervision
+## Doctoral Theses
 
-Image Reconstruction Methods for Accelerated Dynamic MRI
+1. Image Reconstruction Methods for Accelerated Dynamic MRI.
 
-Artefact-Free Image Reconstruction in MRI Using Advanced Algorithms
+2. Artefact-Free Image Reconstruction in MRI Using Advanced Algorithms. 
 
-Master’s Theses
+## Master’s Theses
 
-Reconstruction of Accelerated Cardiovascular MRI Data
+1. Reconstruction of Accelerated Cardiovascular MRI Data
 
-Compressed Sensing–Based Magnetic Resonance Image Reconstruction Using Deep Learning
+2. Compressed Sensing–Based Magnetic Resonance Image Reconstruction Using Deep Learning
 
-Self-Driving Car
+3. Autonomous Driving System Using Computer Vision
 
-Bachelor’s Projects
+## Bachelor’s Projects
 
-MR Image Reconstruction Using Deep Learning and Gadgetron
+4. MR Image Reconstruction Using Deep Learning and Gadgetron
 
-Object Detection Using Deep Learning in MR Images
+5. Object Detection Using Deep Learning in MR Images
 
-Accelerating Dynamic MR Imaging Using Advanced Reconstruction Algorithms
+6. Accelerating Dynamic MR Imaging Using Advanced Reconstruction Algorithms
 
-Low-Rank and Sparse Matrix Decomposition of MR Images
+7. Low-Rank and Sparse Matrix Decomposition of MR Images
 
-Performance Comparison of Sparsified MR Image Reconstruction Algorithms
+8. Performance Comparison of Sparsified MR Image Reconstruction Algorithms
 
-An IoT-Based Solution for Heart Attack Alert and Heart Rate Monitoring
+9. An IoT-Based Solution for Heart Attack Alert and Heart Rate Monitoring
