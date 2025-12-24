@@ -101,14 +101,14 @@ ISMRM Workshop on Advances in MRI Flow, Calgary, Canada, 2024.
 
 ## Bachelor’s Projects
 
-4. MR Image Reconstruction Using Deep Learning and Gadgetron
+1. MR Image Reconstruction Using Deep Learning and Gadgetron
 
-5. Object Detection Using Deep Learning in MR Images
+2. Object Detection Using Deep Learning in MR Images
 
-6. Accelerating Dynamic MR Imaging Using Advanced Reconstruction Algorithms
+3. Accelerating Dynamic MR Imaging Using Advanced Reconstruction Algorithms
 
-7. Low-Rank and Sparse Matrix Decomposition of MR Images
+4. Low-Rank and Sparse Matrix Decomposition of MR Images
 
-8. Performance Comparison of Sparsified MR Image Reconstruction Algorithms
+5. Performance Comparison of Sparsified MR Image Reconstruction Algorithms
 
-9. An IoT-Based Solution for Heart Attack Alert and Heart Rate Monitoring
+6. An IoT-Based Solution for Heart Attack Alert and Heart Rate Monitoring
