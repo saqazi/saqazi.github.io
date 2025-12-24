@@ -1,3 +1,13 @@
+# Sohaib Ayaz Qazi, Ph.D.
+Hovetorpsgatan, 28, 1202,
+58735, Linköping, Sweden
+Mobile (+46) 73 67 84 895
+E-mail: sohaibqazimm@gmail.com
+sohaib.ayaz.qazi@liu.se
+
+# Pofile
+MRI researcher and clinical scientist specializing in cardiovascular imaging, with experience in quantitative MRI analysis, advanced reconstruction workflows, and deep learning–based methods for accelerated cardiac imaging. Focused on building and operating reliable reconstruction pipelines and scanner-integrated workflows, with experience in MRI protocol setup, scanner-side support, and multi-site cardiovascular studies.
+
 # Publications
 ## Journal Articles
 
