@@ -41,47 +41,47 @@ Applied Magnetic Resonance, 50(8), pp. 977–988, 2019.
 Optimizing image reconstruction in SENSE using GPU.
 Applied Magnetic Resonance, 49(2), pp. 151–164, 2018.
 
-Qazi, Sohaib Ayaz, Abeera Saeed, Saima Nasir, Hammad Omer.
+11. **Qazi, Sohaib Ayaz**, Abeera Saeed, Saima Nasir, Hammad Omer.
 Singular value decomposition using Jacobi algorithm in parallel MRI and compressed sensing.
 Applied Magnetic Resonance, 48(5), pp. 461–471, 2017.
 
-## Conference 
+## Conference Publications
 
-Mio Liljeblad, **Qazi, Sohaib Ayaz**, et al.
+1. Mio Liljeblad, **Qazi, Sohaib Ayaz**, et al.
 Phase unwrapping 4D Flow MRI by iterative graph cuts.
 ISMRM & ISMRT Annual Meeting, Hawaii, USA, 2025.
 
-**Qazi, Sohaib Ayaz**, Hussnain Khalid, Federica Viola, Tino Ebbers, Farkas Vanky, Petter Dyverfeldt.
+2. **Qazi, Sohaib Ayaz**, Hussnain Khalid, Federica Viola, Tino Ebbers, Farkas Vanky, Petter Dyverfeldt.
 Accurate peak and mean velocity with deep learning–reconstructed highly undersampled 4D Flow MRI using FlowVN.
 ISMRM & ISMRT Annual Meeting, Singapore, 2024.
 
-**Qazi, Sohaib Ayaz**, Tamara Bianchessi, Federica Viola, Tino Ebbers, Petter Dyverfeldt.
+3. **Qazi, Sohaib Ayaz**, Tamara Bianchessi, Federica Viola, Tino Ebbers, Petter Dyverfeldt.
 Fast and robust deep learning reconstruction for highly accelerated 4D Flow MRI.
 ISMRM Workshop on Advances in MRI Flow, Calgary, Canada, 2024.
 
-**Qazi., Sohaib A.**, Asmat Ali Shah, J. Jacob Wikner and Hammad Omer, “A High-Re, solution Reconfigurable Sigma-Delta Digital-to-Analog Converter for RF Pulse Transmission in MRI Scanners”, IEEE Nordic Circuit and Systems Conference (NorCAS) 2017, 24-25 October 2017, Linkoping, Sweden.
+4. **Qazi., Sohaib A.**, Asmat Ali Shah, J. Jacob Wikner and Hammad Omer, “A High-Re, solution Reconfigurable Sigma-Delta Digital-to-Analog Converter for RF Pulse Transmission in MRI Scanners”, IEEE Nordic Circuit and Systems Conference (NorCAS) 2017, 24-25 October 2017, Linkoping, Sweden.
 
-A. Fatima, **Qazi., Sohaib A.**, H. Omer, “L+S Reconstruction of Cardiac MRI with Different Sparsifying Transforms”, Annual Scientific Meeting of ESMRMB 2017, October 19 – October 21, 2017, Barcelona, Spain.
+5. A. Fatima, **Qazi., Sohaib A.**, H. Omer, “L+S Reconstruction of Cardiac MRI with Different Sparsifying Transforms”, Annual Scientific Meeting of ESMRMB 2017, October 19 – October 21, 2017, Barcelona, Spain.
 
-**Qazi., Sohaib A.**, I. Ullah, H. Omer, “Implementation of Low-Rank + Sparse Matrix Decomposition on GPUs for Accelerating Re-Construction Time”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016. 
+6. **Qazi., Sohaib A.**, I. Ullah, H. Omer, “Implementation of Low-Rank + Sparse Matrix Decomposition on GPUs for Accelerating Re-Construction Time”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016. 
 
-I. Shahzadi, I. Aslam, **Qazi., Sohaib A.**, H. Omer, “GRAPPA Operator Gridding (GROG) for Optimized L+S GRASP Reconstruction of Dynamic Contrast Enhanced MRI”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
+7. I. Shahzadi, I. Aslam, **Qazi., Sohaib A.**, H. Omer, “GRAPPA Operator Gridding (GROG) for Optimized L+S GRASP Reconstruction of Dynamic Contrast Enhanced MRI”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
 
-I. Shahzadi, I. Aslam, **Qazi., Sohaib A.**, H. Omer, “Coil Sensitivity Maps Estimation for k-t SPARSE SENSE Reconstruction using Eigen-Value Approach”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
+8. I. Shahzadi, I. Aslam, **Qazi., Sohaib A.**, H. Omer, “Coil Sensitivity Maps Estimation for k-t SPARSE SENSE Reconstruction using Eigen-Value Approach”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
 
-I. Shahzadi, I. Aslam, **Qazi., Sohaib A.**, H. Omer, “Optimized GRASP for Dynamic Contrast Enhanced MRI using GRAPPA Operator Gridding (GROG) and Iterative Soft-Thresholding”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
+9. I. Shahzadi, I. Aslam, **Qazi., Sohaib A.**, H. Omer, “Optimized GRASP for Dynamic Contrast Enhanced MRI using GRAPPA Operator Gridding (GROG) and Iterative Soft-Thresholding”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
 
-M. Bashir, **Qazi., Sohaib A.**, I. Aslam, H. Omer, “L+S Reconstruction using Iterative Soft Thresholding and Separable Surrogate Functional (SSF) Method”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
+10. M. Bashir, **Qazi., Sohaib A.**, I. Aslam, H. Omer, “L+S Reconstruction using Iterative Soft Thresholding and Separable Surrogate Functional (SSF) Method”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
 
-A. Saeed, S. Nasir, **Qazi., Sohaib A.**, H. Omer, “Low Rank Matrix Decomposition using Jacobi SVD Method in L+S Algorithm”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
+11. A. Saeed, S. Nasir, **Qazi., Sohaib A.**, H. Omer, “Low Rank Matrix Decomposition using Jacobi SVD Method in L+S Algorithm”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
 
-I. Shahzadi, **Qazi., Sohaib A.**, H. Shahzad, H. Omer, “Eigen-value Approach of Coil Sensitivity Maps Estimation for L+S Reconstruction of Dynamic MR Images”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
+12. I. Shahzadi, **Qazi., Sohaib A.**, H. Shahzad, H. Omer, “Eigen-value Approach of Coil Sensitivity Maps Estimation for L+S Reconstruction of Dynamic MR Images”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
 
-I. Ullah, M. M. Qasim, H. Raza, H. Nisar, **Qazi., Sohaib A.**, H. Omer, “SENSE Implementation on Graphical Processing Unit (GPU) using QR Decomposition”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
+13. I. Ullah, M. M. Qasim, H. Raza, H. Nisar, **Qazi., Sohaib A.**, H. Omer, “SENSE Implementation on Graphical Processing Unit (GPU) using QR Decomposition”, 33rd Annual Scientific Meeting of ESMRMB, Vienna Austria, September 29 – October 1, 2016.
 
-**Qazi., Sohaib A.**, et.al, “A Comparative Analysis of LDPC Decoders for Image Transmission over AWGN Channel”, ACM Intl. Conference on Frontiers of Information Technology, Pakistan, December 2009.
+14. **Qazi., Sohaib A.**, et.al, “A Comparative Analysis of LDPC Decoders for Image Transmission over AWGN Channel”, ACM Intl. Conference on Frontiers of Information Technology, Pakistan, December 2009.
 
-**Qazi., Sohaib A.**, et.al, “A Comparative Analysis of Power and Device Utilization of LDPC and Turbo Encoders”, 4th Intl. Conference on Information and Communication Technologies IEEE, Karachi, Pakistan, 2011.
+15. **Qazi., Sohaib A.**, et.al, “A Comparative Analysis of Power and Device Utilization of LDPC and Turbo Encoders”, 4th Intl. Conference on Information and Communication Technologies IEEE, Karachi, Pakistan, 2011.
 
 
 Supervision
